@@ -1,4 +1,6 @@
-hotel_rating_classification
+# hotel_rating_classification
+
+Business Objective:
 
 This is a sample dataset which consists of 20,000reviews and ratings for different hotels
 and our goal is to examine how travelers are communicating their positive and negative experiences
